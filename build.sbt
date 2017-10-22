@@ -1,4 +1,4 @@
-name := """get-smart-play"""
+name := """get-smart-play-test"""
 organization := "e-business"
 
 version := "1.0-SNAPSHOT"
