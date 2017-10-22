@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/get-smart-play-test -Dhttp.port=${PORT}
